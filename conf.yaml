@@ -3,7 +3,7 @@
 url: "http://edwardgao.sinaapp.com"
 title: edwardgao 的博客
 subtitle: 看看gitblog怎么样
-theme: cube
+theme: quest
 enableCache: true
 highlight: true
 mathjax: false
